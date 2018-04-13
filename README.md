@@ -7,4 +7,8 @@ SourceCont1.csv contains the results of the source contamination study, Sec. 2.3
 
 Bioreactor.NO3.Injection_ForPaper.csv contains the data from the MPS experiment injecting KNO3 over 76 h into the lab bioreactor.
 
+3.29.2016Corrected.csv - 4.12.2016Corrected_3comp.csv contain data used to calculate NO3 removal kinetics in the lab bioreactor.
+
+KineticsData.csv files include the NO3 concentrations in stream mesocosms used to calculate kinetics and evaluate zero, first and efficiency loss models
+
 
