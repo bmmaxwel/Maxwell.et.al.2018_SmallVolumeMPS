@@ -1,4 +1,4 @@
-# SmallVolumeMultiplexerPaper
+# Maxwell.et.al.2018_SmallVolumeMPS
 Data used to create the journal article on performance, testing, and applications of small volume multiplexer. Folders are labeled according to the Section in which the data was included.
 
 Sec.2.3.1 - CrossContaminationResults.xlsx is the results of the cross contamination testing for the MPS Sec. 2.3.1, testing contamination occurring within the cuvette occurring from previous sample volumes.
